@@ -1,0 +1,16 @@
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\interactions\interactions\bin\Debug\net5.0\interactions.exe
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\interactions\interactions\bin\Debug\net5.0\interactions.deps.json
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\interactions\interactions\bin\Debug\net5.0\interactions.runtimeconfig.json
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\interactions\interactions\bin\Debug\net5.0\interactions.runtimeconfig.dev.json
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\interactions\interactions\bin\Debug\net5.0\interactions.dll
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\interactions\interactions\bin\Debug\net5.0\ref\interactions.dll
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\interactions\interactions\bin\Debug\net5.0\interactions.pdb
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\interactions\interactions\obj\Debug\net5.0\interactions.csprojAssemblyReference.cache
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\interactions\interactions\obj\Debug\net5.0\interactions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\interactions\interactions\obj\Debug\net5.0\interactions.AssemblyInfoInputs.cache
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\interactions\interactions\obj\Debug\net5.0\interactions.AssemblyInfo.cs
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\interactions\interactions\obj\Debug\net5.0\interactions.csproj.CoreCompileInputs.cache
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\interactions\interactions\obj\Debug\net5.0\interactions.dll
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\interactions\interactions\obj\Debug\net5.0\ref\interactions.dll
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\interactions\interactions\obj\Debug\net5.0\interactions.pdb
+D:\Guti\Documents\Becode\marzo\DotNet\proyectos\interactions\interactions\obj\Debug\net5.0\interactions.genruntimeconfig.cache
